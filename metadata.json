@@ -1,0 +1,6 @@
+{
+  "name": "AI Photographer",
+  "description": "智能约拍与拍摄助手：上传照片、分析风格、生成姿势、构图建议、拍摄脚本、推荐摄影师、修图建议及作品分享。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
